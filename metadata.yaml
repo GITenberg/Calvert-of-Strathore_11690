@@ -1,0 +1,30 @@
+_repo: Calvert-of-Strathore_11690
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goodloe, Abbe Carter
+    aliases:
+    - Goodloe, Abbie Carter
+    - Goodloe, Carter
+    birthdate: 1867
+    gutenberg_agent_id: '4070'
+    url: http://www.gutenberg.org/2009/agents/4070
+description: Cover -- Contents.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Americans -- France -- Fiction'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Jefferson, Thomas, 1743-1826 -- Fiction'
+- GITenberg
+title: Calvert of Strathore
+url: http://www.gutenberg.org/ebooks/11690
